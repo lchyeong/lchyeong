@@ -2,8 +2,10 @@
 backend developer 
 
 ## 🚀 Skills & Technologies
-### Languages & Frameworks/Libraries:
-- Java, Spring Boot, React, Zustand, Axious
+### Languages 
+- Java, JavaScript
+### Frameworks/Libraries:
+- Spring Boot, React, Zustand, Axious
 ### Databases: 
 - MySQL, Redis
 ### DevOps & Tools:
