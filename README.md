@@ -4,12 +4,12 @@ backend developer
 ## 🚀 Skills & Technologies
 ### Languages 
 - Java, JavaScript
-### Frameworks/Libraries:
-- Spring Boot, React, Zustand, Axious
+### Frameworks & Libraries:
+- Spring Boot, React, Zustand, Axious, Tailwind CSS, Mui
 ### Databases: 
 - MySQL, Redis
 ### DevOps & Tools:
-- Docker, Jenkins, AWS, Git
+- Docker, Jenkins, AWS, Git, Github, GitLab, Notion
 ## 📫 Contact
 - Email: lchyeong@gmail.com 
 - Phone: 010-6356-9943
