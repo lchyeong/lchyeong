@@ -9,8 +9,8 @@ backend developer
 ### DevOps & Tools:
 -- Docker, Jenkins, AWS, Git
 ## 📫 Contact
--- Email: lchyeong@gmail.com
--- Phone: 010-6356-9943
+-- Email: lchyeong@gmail.com 
+## -- Phone: 010-6356-9943
 
 ## 🛠️ Projects
 ### [Project 1: Gobooks]
