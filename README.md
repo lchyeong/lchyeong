@@ -1,7 +1,7 @@
 👋 Hi, I'm Chan Hyeong Lee.
 backend developer 
 
-## 🚀 Skills & Technologies
+### 🚀 Skills & Technologies
 ## Languages & Frameworks/Libraries:
 -- Java, Spring Boot, React, Zustand, Axious
 
