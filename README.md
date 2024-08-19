@@ -5,15 +5,14 @@ backend developer
 ### Languages 
 - Java, JavaScript
 ### Frameworks & Libraries:
-- Spring Boot, React, Zustand, Axious, Tailwind CSS, Mui
+#### Backend:
+- Spring Boot, Spring Security, JPA/Hibernate
+#### Frontend:
+- React, Zustand, Axios, Tailwind CSS, Material-UI(MUI)
 ### Databases: 
-- MySQL, Redis
+- H2, MySQL, Redis
 ### DevOps & Tools:
 - Docker, Jenkins, AWS, Git, Github, GitLab, Notion
-## 📫 Contact
-- Email: lchyeong@gmail.com 
-- Phone: 010-6356-9943
-
 ## 🛠️ Projects
 ### [Project 1: Gobooks]
 - **Description**: 온라인 서점 쇼핑몰
@@ -23,3 +22,6 @@ backend developer
 - **Description**: 구독 셰어링 플랫폼
 - **Technologies Used**: Java, Spring Boot, MySQL, H2, AWS, Docker, Redis, React, Zustand, Axios.
 - **Key Features**: 회원, 정기결제, 파티매칭, 관리자 채팅 etc.
+## 📫 Contact
+- Email: lchyeong@gmail.com 
+- Phone: 010-6356-9943
