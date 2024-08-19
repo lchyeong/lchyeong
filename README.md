@@ -14,6 +14,8 @@ backend developer
 
 ## 🛠️ Projects
 ### [Project 1: Gobooks]
-- 온라인 서점 쇼핑몰
+- **Description**: 온라인 서점 쇼핑몰
+- **Technologies Used**: Java, Spring Boot, MySQL, H2, React, Zustand, Axios.
+- **Key Features**: User authentication, product management, and order processing.
 ### [Project 2: N/BBANG]
 - 구독 셰어링 플랫폼
