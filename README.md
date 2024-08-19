@@ -1,13 +1,13 @@
 👋 Hi, I'm Chan Hyeong Lee.
 backend developer 
 
-### 🚀 Skills & Technologies
-#### Languages & Frameworks/Libraries:
+## 🚀 Skills & Technologies
+### Languages & Frameworks/Libraries:
 -- Java, Spring Boot, React, Zustand, Axious
 
-## Databases: 
+### Databases: 
 -- MySQL, Redis
-## DevOps & Tools:
+### DevOps & Tools:
 -- Docker, Jenkins, AWS, Git
 
 ## 📫 Contact
@@ -15,7 +15,7 @@ backend developer
 -- Phone: 
 
 ## 🛠️ Projects
-## [Project 1: Gobooks]
+### [Project 1: Gobooks]
 -- 온라인 서점 쇼핑몰
-## [Project 2: N/BBANG]
+### [Project 2: N/BBANG]
 -- 구독 셰어링 플랫폼
