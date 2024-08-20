@@ -25,4 +25,5 @@ backend developer
 ## 📫 Contact
 - Email: lchyeong@gmail.com 
 - Phone: 010-6356-9943
-https://extreme-fog-7c6.notion.site/Lee-Chan-Hyeong-4dfe2af932e04bdcb7650ee6e8bca3a8?pvs=4
+- Portfolio: [Lee Chan Hyeong](https://extreme-fog-7c6.notion.site/Lee-Chan-Hyeong-4dfe2af932e04bdcb7650ee6e8bca3a8?pvs=4)
+
