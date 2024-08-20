@@ -1,5 +1,5 @@
-👋 Hi, I'm Chan Hyeong Lee.
-backend developer 
+👋 
+안녕하세요 백엔드 개발자 이찬형입니다. 
 
 ## 🌈 Protfolio
 - Portfolio: [Lee Chan Hyeong](https://extreme-fog-7c6.notion.site/Lee-Chan-Hyeong-4dfe2af932e04bdcb7650ee6e8bca3a8?pvs=4)
