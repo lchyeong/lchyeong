@@ -1,5 +1,6 @@
 👋 
-안녕하세요 백엔드 개발자 이찬형입니다. 
+안녕하세요. 
+같이 일하고 싶은 사람이 되고자 하는 개발자 이찬형입니다. 
 
 ## 🌈 Protfolio
 - Portfolio: [Lee Chan Hyeong](https://extreme-fog-7c6.notion.site/Lee-Chan-Hyeong-4dfe2af932e04bdcb7650ee6e8bca3a8?pvs=4)
@@ -8,13 +9,13 @@
 - Java, JavaScript
 ### Frameworks & Libraries:
 #### Backend:
-- Spring Boot, Spring Security, JPA/Hibernate
+- Spring Boot, Spring Security, JPA/Hibernate, OAuth2, JWT
 #### Frontend:
 - React, Zustand, Axios, Tailwind CSS, Material-UI(MUI)
 ### Databases: 
 - H2, MySQL, Redis
 ### DevOps & Tools:
-- Docker, Jenkins, AWS, Git, Github, GitLab, Notion
+- Docker, Github Action, AWS, Git, Github, GitLab, Notion, Swagger
 ## 🛠️ Projects
 ### [Project 1: Gobooks]
 - **Description**: 온라인 서점 쇼핑몰
