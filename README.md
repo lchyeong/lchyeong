@@ -10,8 +10,10 @@
 - React, Zustand, Axios, Tailwind CSS, Material-UI(MUI)
 ### Databases: 
 - H2, MySQL, Redis
-### DevOps & Tools:
-- Docker, Github Action, AWS, Git, Github, GitLab, Notion, Swagger
+### DevOps
+- Docker, Docker Compose, DockerHub, GitHub Actions, Nginx, Google Cloud Platform (GCP), AWS
+### Tools
+- Git, GitHub, GitLab, Notion, Swagger
 ## 🛠️ Projects
 ### [Project 1: Gobooks]
 - **Description**: 온라인 서점 쇼핑몰
