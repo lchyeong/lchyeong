@@ -1,5 +1,5 @@
 ## 🌈 Protfolio
-- Portfolio: [Lee Chan Hyeong]([https://extreme-fog-7c6.notion.site/Lee-Chan-Hyeong-4dfe2af932e04bdcb7650ee6e8bca3a8?pvs=4](https://lchyeong-chany.notion.site/Backend-Developer-4dfe2af932e04bdcb7650ee6e8bca3a8))
+- Portfolio: [Lee Chan Hyeong](https://lchyeong-chany.notion.site/Backend-Developer-4dfe2af932e04bdcb7650ee6e8bca3a8)
 ## 🚀 Skills & Technologies
 ### Languages 
 - Java, JavaScript
